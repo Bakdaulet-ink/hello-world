@@ -1,2 +1,3 @@
 # hello-world
-Che za fignya
+This is my first repo and github experience
+Hope that it'll be interesting learn new things
